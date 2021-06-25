@@ -28,6 +28,7 @@
 
 <details>
 <summary>[한글 소개] (👈 클릭)</summary>
+ <br>
 <div markdown="1">       
  <details>
 <summary>핵심 역량 (👈 클릭)</summary>
