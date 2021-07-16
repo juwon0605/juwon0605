@@ -15,7 +15,7 @@
 <details>
 <summary>Projects (👈 Click)</summary>
 <div markdown="1">       
- ...
+ - https://github.com/juwon0605/bluecoconut_website
 </div>
 </details>
 
@@ -47,7 +47,7 @@
 <details>
 <summary>프로젝트 (👈 클릭)</summary>
 <div markdown="1">       
- ...
+ - https://github.com/juwon0605/bluecoconut_website
 </div>
 </details>
 
