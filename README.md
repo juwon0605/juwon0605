@@ -6,7 +6,7 @@
  
  - Use AWS EC2, RDS and S3 to develop and deploy applications
  
- - Experience in full cycle development cycle from planning to design to development
+ - Experience in full development cycle from planning to design to development
 </div>
 </details>
 
