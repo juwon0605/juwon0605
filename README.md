@@ -18,7 +18,7 @@
 : I can implement basic algorithms such as DFS, BFS, DP, etc. by using the data structure.
 </br></br>
 ② Java</br>
-: I developed and released the app using Spring MVC through Spring and SpringBoot framework.
+: I developed and released the web server using Spring MVC through Spring and SpringBoot framework.
 </br></br>
 ③ JavaScript</br>
 : I developed a map marine data delivery service through public templates and Google Maps APIs.
@@ -44,9 +44,11 @@
 <summary>Projects (👈 Click)</summary>
 <div markdown="1">       
 
- - https://github.com/juwon0605/INCAR
- 
+ - https://github.com/Forrest-GoF/job-scanner-server
+
  - https://github.com/juwon0605/bluecoconut_website
+
+ - https://github.com/juwon0605/INCAR
 </div>
 </details>
 
@@ -81,7 +83,7 @@
  : 자료구조를 활용해 DFS, BFS, DP 등 기본적인 알고리즘을 구현할 수 있습니다.
  </br></br>
  ② Java</br>
- : Spring과 SpringBoot 프레임워크를 통해 Spring MVC를 사용하여 앱을 만들어 출시해봤습니다.
+ : Spring과 SpringBoot 프레임워크를 통해 Spring MVC를 사용하여 웹 서버를 만들어 출시해봤습니다.
  </br></br>
  ③ JavaScript</br>
  : 공개 탬플릿과 구글맵 API를 통해 지도 해양 데이터 제공 서비스를 개발해봤습니다.
@@ -108,9 +110,11 @@
 <summary>프로젝트 (👈 클릭)</summary>
 <div markdown="1">       
  
- - https://github.com/juwon0605/INCAR
- 
+ - https://github.com/Forrest-GoF/job-scanner-server
+
  - https://github.com/juwon0605/bluecoconut_website
+
+ - https://github.com/juwon0605/INCAR
 </div>
 </details>
 
